@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [[https://keepachangelog.com/en/1.0.0/][Keep a Changelog]], and this project adheres to [[https://semver.org/spec/v2.0.0.html][Semantic Versioning]].
 
 * Unreleased
+** Changed
+  - Add comments at the top of the scripts
+    - to describe what they do.
+    - to cite the LICENSE.
+  - Add a =--help= option.
 * [0.1.0] 2020-05-15
 ** Added
    - This file
+* [0.1.1] 2020-05-16
+** Added
+   - The documentation of the scripts to create and manage ansible
+     projects.
+   - The =README.org= file.
+** Changed
+   - Adding reference to the documentation in the comments of the
+     scripts.

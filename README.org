@@ -1,0 +1,14 @@
+#+TITLE: README - CLI Utilities
+* Introduction
+  Repository of Command-Line utilities.
+* Structure of the repository
+** =bin/=
+   The location of the executables for each script
+** =docs/=
+   The documentation for each script.
+* Author
+
++ Roland Everaert
+* Copyright
+
+Copyright (c) 2020 Roland Everaert

@@ -1,5 +1,7 @@
 #! /bin/zsh
 
+# Find the documentation at https://github.com/REve-Workshop/xyz.revecloud.re.cli-utils/docs/setup-ansible-project.org
+
 original_dir=$(pwd)
 
 mkdir $1
